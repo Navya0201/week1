@@ -17,4 +17,5 @@
  10px; background-color: #28a745; color: white; border-radius: 3px;
  font- size: 18px;">Submit
  </button>
- </form><script src="script.js"></script></body></html>
+ </form><script src="script.js"></script>
+</body></html>
